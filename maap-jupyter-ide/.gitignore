@@ -1,0 +1,13 @@
+.ipynb_checkpoints/
+jupyterlab_iframe/maap-py/
+.idea/
+*.pyc
+*.cpython-36.pyc
+*/node_modules/*
+*/build/*
+*/lib/*
+**/*.ipynb
+*/*.egg-info/*
+submit_jobs/submit_jobs/response*
+*/package-lock.json
+**/*.lock
