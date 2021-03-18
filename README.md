@@ -1,6 +1,6 @@
-`microk8s.docker build -t <registryurl>/root/jupyter_image/gchang-maap-che7-esa  .`
+`docker build -t <registryurl>/root/jupyter_image/gchang-maap-che7-esa  .`
 
-`microk8s.docker push <registryurl>/root/jupyter_image/gchang-maap-che7-esa:latest`
+`docker push <registryurl>/root/jupyter_image/gchang-maap-che7-esa:latest`
 
 ```
 apiVersion: 1.0.0
